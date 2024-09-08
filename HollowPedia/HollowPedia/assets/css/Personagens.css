@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #232133;
+}
+
+/* -------------------------------------------------------------- */
+
+.Titulo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: #17171f;
+    padding: 10px;
+    margin: 10px 200px;
+    border-radius: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-style: double;
+}
+
+.Menu_inicial {
+    word-spacing: 30px;
+    background-color: rgb(14, 14, 20);
+    padding: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.Mapa {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: double;
+}
+
+.Mapa:hover {
+    background-color: white;
+    color: black;
+}
+
+.Bosses {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: double;
+}
+
+.Bosses:hover {
+    background-color: white;
+    color: black;
+}
+
+.Criaturas {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: double;
+}
+
+.Criaturas:hover {
+    background-color: white;
+    color: black;
+}
+
+.História {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: double;
+}
+
+.História:hover {
+    background-color: white;
+    color: black;
+}
+
+.Amuletos {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    border-style: double;
+}
+
+.Amuletos:hover {
+    background-color: white;
+    color: black;
+}
+
+.Personagens {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white; 
+    border-style: double;
+}
+
+.Personagens:hover {
+    background-color: white;
+    color: black;
+}
+
+.Habilidades {
+    background-color: #100f18;
+    padding: 15px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white; 
+    border-style: double;
+}
+
+.Habilidades:hover {
+    background-color: white;
+    color: black;
+}
